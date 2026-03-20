@@ -1,2 +1,3 @@
-# rapid-testing-framework-jcdo
-A automated testing framework for modern development workflows
+# Rapid Testing Framework Jcdo
+
+A automated testing framework for modern development workflows.
